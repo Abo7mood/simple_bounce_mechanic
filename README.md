@@ -48,5 +48,4 @@ The project allowed me to refine my understanding of Unity's physics system and 
 
 # 🎮 Demo 🎮
 
-[2d FOX Game 
-](https://abo-7mood.itch.io/my-first-game)
+no demo.
